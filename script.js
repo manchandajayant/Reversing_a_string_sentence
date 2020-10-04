@@ -1,3 +1,7 @@
+//reversing a sentence with order remaining the same but the words themselves being reversed.
+
+
+
 function reversingAStringSentence(string) {
   let stringToArray = string.split(" ");
 
